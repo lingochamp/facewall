@@ -7,11 +7,11 @@ constants =
     api_base: 'kumonga/v2'
 
     autoplay: true
-    autoplay_seconds: 6
+    autoplay_seconds: 3
     refresh_seconds: 30 * 60
 
     useAutoSizing: true
-    columnWidth: 150
+    columnWidth: 300
 
     threedee: false
 
